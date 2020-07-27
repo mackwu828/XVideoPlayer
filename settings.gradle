@@ -1,0 +1,3 @@
+include ':xvideoplayer'
+rootProject.name = "XVideoPlayer"
+include ':app'
